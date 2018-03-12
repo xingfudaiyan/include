@@ -1,0 +1,3 @@
+[submodule "EquipmentManager"]
+	path = EquipmentManager
+	url = https://github.com/xingfudaiyan/EquipmentManager.git
